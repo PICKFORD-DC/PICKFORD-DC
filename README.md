@@ -6,4 +6,4 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PICKFORD-DC&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 ##Viewers 
-<p align="center"><img src="https://profile-counter.glitch.me/{Aiinne}/count.svg" alt="neoxr :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{PICKFORD-DC}/count.svg" alt="neoxr :: Visitor's Count" /></p>
